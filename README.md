@@ -4,11 +4,11 @@
 
 ## tipos de arquitetura mobile
 
-### 1. Arquitetura de hardware
+### 1. Arquitetura de [hardware](hardware.md)
 
-### 2. Arquitetura de SoftWare
+### 2. Arquitetura de [SoftWare](software.md)
 
-### 3. Arquitetura de rede
+### 3. Arquitetura de [rede](rede.md)
 
 ### 4. consideraçãoes para a arquitetura mobile
 
